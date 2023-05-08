@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^1.4.0",
+    "canvacord": "^5.4.8",
+    "captcha-canvas": "^3.2.1",
+    "discord-gamecord": "^4.4.0",
+    "discord-giveaways": "^6.0.1",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.6.0",
+    "mathjs": "^11.8.0",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^2.6.9",
+    "os": "^0.1.2",
+    "perf_hooks": "^0.0.1",
+    "quickchart-js": "^3.1.2",
+    "weather-js": "^2.0.0",
+    "wikijs": "^6.4.1"
+  },
+  "name": "shipping-bot",
+  "description": "PixelVal is a verified multipurpose bot with over 100+ commands, and now, is open source! Enjoy copy pasting some of the top of the line features. By using these commands you agree to our TOS (https://pixelval.webflow.io/) which includes but is not limited to impersonating the bot and/or selling it.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Finn",
+  "license": "ISC"
+}
